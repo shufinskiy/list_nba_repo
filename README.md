@@ -1,2 +1,4 @@
-# nba_repository
-Projects based on NBA data
+# NBA projects
+
+List of my projects on subject of NBA:
+
